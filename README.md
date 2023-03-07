@@ -137,4 +137,4 @@ If `distributed.rank` is not specified in the command line, it will be loaded fr
 
 ## Contact
 
-Contact Jiong Zhu (`jiongzhu@`, or `jiongzhu@umich.edu`) or Aishwarya Reganti (`areganti@`) if you have any questions for the code.
+Contact Jiong Zhu (`jiongzhu@`, or `jiongzhu@umich.edu`) or Aishwarya Reganti (`areganti@amazon.com`) if you have any questions for the code.
